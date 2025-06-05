@@ -1,0 +1,26 @@
+﻿<form asp-controller="Usuario" asp-action="ForMethod" method="get">
+
+	<label>Username</label>
+	<input type="text" name="Username"/>
+
+	<label>Password</label>
+	<input type="password" name="Password"/>
+
+	<label>Email</label>
+	<input type="text" name="Email" />
+
+	<label>Name</label>
+	<input type="text" name="Name"/>
+
+	<label>Fecha Nacimiento</label>
+	<input type="text" name="FechaNacimiento"/>
+
+	<button type="submit">Cargar y Obtener Usuario</button>
+
+</form>
+
+@if (ViewBag.Error != null )
+{
+	<h1>@ViewBag.Error</h1>
+
+}

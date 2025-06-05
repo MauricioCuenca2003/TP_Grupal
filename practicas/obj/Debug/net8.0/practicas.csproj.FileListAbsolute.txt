@@ -1,0 +1,143 @@
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\appsettings.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\practicas.staticwebassets.runtime.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\practicas.exe
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\practicas.deps.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\practicas.runtimeconfig.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\bin\Debug\net8.0\practicas.pdb
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.AssemblyInfo.cs
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.RazorAssemblyInfo.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.RazorAssemblyInfo.cs
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets\msbuild.practicas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets\msbuild.build.practicas.props
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.practicas.props
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.practicas.props
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\scopedcss\bundle\practicas.styles.css
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\scopedcss\projectbundle\practicas.bundle.scp.css
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\refint\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.pdb
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\practicas.genruntimeconfig.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\practicas\practicas\obj\Debug\net8.0\ref\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\appsettings.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\practicas.staticwebassets.runtime.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\practicas.exe
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\practicas.deps.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\practicas.runtimeconfig.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\bin\Debug\net8.0\practicas.pdb
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.AssemblyInfo.cs
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.RazorAssemblyInfo.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.RazorAssemblyInfo.cs
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.sourcelink.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.practicas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.build.practicas.props
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.practicas.props
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.practicas.props
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\scopedcss\bundle\practicas.styles.css
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\scopedcss\projectbundle\practicas.bundle.scp.css
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\refint\practicas.dll
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.pdb
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\practicas.genruntimeconfig.cache
+C:\Users\ariel\Desktop\3er año\programacion 5\Login\practicas\obj\Debug\net8.0\ref\practicas.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\appsettings.json
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.staticwebassets.runtime.json
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.staticwebassets.endpoints.json
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.exe
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.deps.json
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.runtimeconfig.json
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\practicas.pdb
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.RazorAssemblyInfo.cache
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.RazorAssemblyInfo.cs
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.sourcelink.json
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\scopedcss\bundle\practicas.styles.css
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\scopedcss\projectbundle\practicas.bundle.scp.css
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.practicas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.practicas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.build.practicas.props
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.practicas.props
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.practicas.props
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.dll
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\refint\practicas.dll
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.pdb
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.genruntimeconfig.cache
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\ref\practicas.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\mauri\Desktop\Login\practicas\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Login\practicas\obj\Debug\net8.0\practicas.csproj.Up2Date

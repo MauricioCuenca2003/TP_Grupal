@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauri\\Desktop\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\mauri\\desktop\\login\\practicas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\mauri\\desktop\\login\\practicas\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\mauri\\desktop\\login\\practicas\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\mauri\\desktop\\login\\practicas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\mauri\\desktop\\login\\practicas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioModels.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Models\\UsuarioModels.cs",
+              "RelativeDocumentMoniker": "practicas\\Models\\UsuarioModels.cs",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Models\\UsuarioModels.cs",
+              "RelativeToolTip": "practicas\\Models\\UsuarioModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:10:36.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "practicas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "practicas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:25:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "practicas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "practicas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:25:18.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "practicas\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "practicas\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:09:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "practicas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Login\\practicas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "practicas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:05:59.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
